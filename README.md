@@ -1,3 +1,5 @@
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/androetto){:target="_blank"}
+
 ## Hi there 👋
 Mi nombre es Franco soy desarrollador full stack desde hace 5 años.
 
