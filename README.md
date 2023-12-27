@@ -3,6 +3,8 @@
 
 ![image](https://github.com/androetto/androetto/assets/13305254/c6a9e6bd-df55-478a-9916-b237f1db0226)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=androetto&show_icons=true&theme=transparent)
+
 ## Hi there 👋
 Mi nombre es Franco soy desarrollador full stack desde hace 5 años.
 
