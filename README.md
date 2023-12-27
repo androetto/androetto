@@ -5,6 +5,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=androetto&show_icons=true&theme=transparent)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=androetto&hide_progress=true)
+
 ## Hi there 👋
 Mi nombre es Franco soy desarrollador full stack desde hace 5 años.
 
