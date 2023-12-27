@@ -1,4 +1,5 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franco-androetto/)
+![](https://komarev.com/ghpvc/?username=androetto&color=green)
 
 ![image](https://github.com/androetto/androetto/assets/13305254/c6a9e6bd-df55-478a-9916-b237f1db0226)
 
