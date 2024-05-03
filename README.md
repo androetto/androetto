@@ -7,8 +7,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=androetto&hide_progress=true)
 
-## Hi there 👋
-Mi nombre es Franco soy desarrollador full stack desde hace 5 años.
 
 ### :hammer_and_wrench: Skills
 
@@ -23,39 +21,6 @@ Mi nombre es Franco soy desarrollador full stack desde hace 5 años.
 
 ###
 
-### Proyectos
-
-#### 🏁 Pos Cloud
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vel lacus id lectus convallis pellentesque. Quisque id ullamcorper urna, vitae elementum ante. Mauris a lectus non purus ullamcorper congue at nec nisl. In hac habitasse platea dictumst. Aenean justo tellus, molestie ut magna ut, sollicitudin vehicula nulla. Maecenas sollicitudin nisi eget nulla maximus, molestie pulvinar nisl ultricies. Suspendisse nec dui id nisi sodales tempor id nec ligula.
-
-#### LVSJ
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vel lacus id lectus convallis pellentesque. Quisque id ullamcorper urna, vitae elementum ante. Mauris a lectus non purus ullamcorper congue at nec nisl. In hac habitasse platea dictumst. Aenean justo tellus, molestie ut magna ut, sollicitudin vehicula nulla. Maecenas sollicitudin nisi eget nulla maximus, molestie pulvinar nisl ultricies. Suspendisse nec dui id nisi sodales tempor id nec ligula.
-
-#### Watchman
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vel lacus id lectus convallis pellentesque. Quisque id ullamcorper urna, vitae elementum ante. Mauris a lectus non purus ullamcorper congue at nec nisl. In hac habitasse platea dictumst. Aenean justo tellus, molestie ut magna ut, sollicitudin vehicula nulla. Maecenas sollicitudin nisi eget nulla maximus, molestie pulvinar nisl ultricies. Suspendisse nec dui id nisi sodales tempor id nec ligula.
-
-#### Order Journey
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vel lacus id lectus convallis pellentesque. Quisque id ullamcorper urna, vitae elementum ante. Mauris a lectus non purus ullamcorper congue at nec nisl. In hac habitasse platea dictumst. Aenean justo tellus, molestie ut magna ut, sollicitudin vehicula nulla. Maecenas sollicitudin nisi eget nulla maximus, molestie pulvinar nisl ultricies. Suspendisse nec dui id nisi sodales tempor id nec ligula.
-
-#### Skycan
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vel lacus id lectus convallis pellentesque. Quisque id ullamcorper urna, vitae elementum ante. Mauris a lectus non purus ullamcorper congue at nec nisl. In hac habitasse platea dictumst. Aenean justo tellus, molestie ut magna ut, sollicitudin vehicula nulla. Maecenas sollicitudin nisi eget nulla maximus, molestie pulvinar nisl ultricies. Suspendisse nec dui id nisi sodales tempor id nec ligula.
-
-#### Librologia
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vel lacus id lectus convallis pellentesque. Quisque id ullamcorper urna, vitae elementum ante. Mauris a lectus non purus ullamcorper congue at nec nisl. In hac habitasse platea dictumst. Aenean justo tellus, molestie ut magna ut, sollicitudin vehicula nulla. Maecenas sollicitudin nisi eget nulla maximus, molestie pulvinar nisl ultricies. Suspendisse nec dui id nisi sodales tempor id nec ligula.
-
-#### Blotter
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vel lacus id lectus convallis pellentesque. Quisque id ullamcorper urna, vitae elementum ante. Mauris a lectus non purus ullamcorper congue at nec nisl. In hac habitasse platea dictumst. Aenean justo tellus, molestie ut magna ut, sollicitudin vehicula nulla. Maecenas sollicitudin nisi eget nulla maximus, molestie pulvinar nisl ultricies. Suspendisse nec dui id nisi sodales tempor id nec ligula.
-
-#### Schedule
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vel lacus id lectus convallis pellentesque. Quisque id ullamcorper urna, vitae elementum ante. Mauris a lectus non purus ullamcorper congue at nec nisl. In hac habitasse platea dictumst. Aenean justo tellus, molestie ut magna ut, sollicitudin vehicula nulla. Maecenas sollicitudin nisi eget nulla maximus, molestie pulvinar nisl ultricies. Suspendisse nec dui id nisi sodales tempor id nec ligula.
 
 
 
