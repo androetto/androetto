@@ -3,9 +3,6 @@
 
 ![image](https://github.com/androetto/androetto/assets/13305254/c6a9e6bd-df55-478a-9916-b237f1db0226)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=androetto&show_icons=true&theme=transparent)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=androetto&hide_progress=true)
 
 
 ### :hammer_and_wrench: Skills
@@ -15,9 +12,10 @@
 ### 🔥 My Stats
 
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=androetto&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+<p>
+    <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=androetto&show_icons=true&count_private=true&theme=dark" />&nbsp;&nbsp;
+    <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=androetto&layout=compact&theme=dark" />&nbsp;&nbsp;
+</p>
 
 ###
 
