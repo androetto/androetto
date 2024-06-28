@@ -7,7 +7,7 @@
 
 ### :hammer_and_wrench: Skills
 
-[![Angular, Node.js, JavaScript, TypeScript, githubactions](https://skillicons.dev/icons?i=next,svelte,nodejs,js,ts,aws,gcp,solidity)](https://skillicons.dev)
+[![Angular, Node.js, JavaScript, TypeScript, GithubActions](https://skillicons.dev/icons?i=angular,nodejs,js,ts,githubactions)](https://skillicons.dev)
 
 ### 🔥 My Stats
 
