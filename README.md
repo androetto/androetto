@@ -28,6 +28,7 @@ Outside of coding, I enjoy good food 🍝, sports 🏌️‍♂️🏃‍♂️�
 [![C#](https://skillicons.dev/icons?i=csharp)](https://skillicons.dev)
 
 [![Angular](https://skillicons.dev/icons?i=angular)](https://skillicons.dev) 
+[![Flutter](https://skillicons.dev/icons?i=flutter)](https://skillicons.dev)
 [![Next.js](https://skillicons.dev/icons?i=nextjs)](https://skillicons.dev) 
 [![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev) 
 [![Remix](https://skillicons.dev/icons?i=remix)](https://skillicons.dev)
@@ -42,6 +43,7 @@ Outside of coding, I enjoy good food 🍝, sports 🏌️‍♂️🏃‍♂️�
 [![Redis](https://skillicons.dev/icons?i=redis)](https://skillicons.dev)
 
 [![GitHub Actions](https://skillicons.dev/icons?i=githubactions)](https://skillicons.dev) 
+[![Docker](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
 [![AWS](https://skillicons.dev/icons?i=aws)](https://skillicons.dev) 
 [![Google Cloud Platform](https://skillicons.dev/icons?i=gcp)](https://skillicons.dev) 
 [![Azure](https://skillicons.dev/icons?i=azure)](https://skillicons.dev)
