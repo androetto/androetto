@@ -32,6 +32,7 @@ Outside of coding, I enjoy good food 🍝, sports 🏌️‍♂️🏃‍♂️�
 [![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev) 
 [![Remix](https://skillicons.dev/icons?i=remix)](https://skillicons.dev)
 
+[![ExpressJS](https://skillicons.dev/icons?i=express)](https://skillicons.dev)
 [![Node.js](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev) 
 [![NestJS](https://skillicons.dev/icons?i=nestjs)](https://skillicons.dev)
 
