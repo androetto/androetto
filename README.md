@@ -13,7 +13,7 @@
 > -Linus Torvalds
 
 
-Hi! I'm a full stack JavaScript developer from 🇦🇷🇮🇹, currently working as a DevOps engineer. I focus on optimizing deployments with GitHub Actions and managing scalable, efficient environments across both frontend and backend stacks.
+Hi! I'm a full stack JavaScript developer from 🇦🇷, currently working as a DevOps engineer. I focus on optimizing deployments with GitHub Actions and managing scalable, efficient environments across both frontend and backend stacks.
 
 Right now, I'm launching an open source project because I’m passionate about open collaboration and always eager to learn from the community.
 
