@@ -2,7 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=androetto&color=green)
 
 <h1 align="center">FRANCO ANDROETTO</h1>
-<h3 align="center"> Full-Stack Web Developer</h3>
+<h3 align="center">Senior Full Stack Javascript Developer</h3>
 
 
 
@@ -13,11 +13,11 @@
 > -Linus Torvalds
 
 
-Hi! I'm a full stack developer specialized in JavaScript from 🇦🇷🇮🇹. I'm currently developing as a DevOps engineer. I work on optimizing deployments with GitHub Actions, managing scalable and efficient environments both on the frontend and backend.
+Hi! I'm a full stack JavaScript developer from 🇦🇷🇮🇹, currently working as a DevOps engineer. I focus on optimizing deployments with GitHub Actions and managing scalable, efficient environments across both frontend and backend stacks.
 
-Currently, I'm focusing on launching an open source project, as I'm passionate about the open source world and always seek to collaborate and learn from the community.
+Right now, I'm launching an open source project because I’m passionate about open collaboration and always eager to learn from the community.
 
-Outside of coding, I enjoy good food 🍝, sports 🏌️‍♂️🏃‍♂️🏊‍♂️🚴‍♂️, and in my free time, I learn to play the guitar 🎸. I’m always looking for ways to optimize and automate processes. 🚀
+Outside of coding, I love good food 🍝, sports 🏌️‍♂️🏃‍♂️🏊‍♂️🚴‍♂️, and I'm learning to play the guitar 🎸. I’m constantly looking for ways to optimize and automate everything around me. 🚀
 
 
 ### :hammer_and_wrench: Skills
