@@ -2,7 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=androetto&color=green)
 
 <h1 align="center">FRANCO ANDROETTO</h1>
-<h3 align="center">Senior Full Stack Javascript Developer</h3>
+<h3 align="center">🚀 Senior Full Stack Developer & DevOps Engineer 🛠️</h3>
 
 
 
