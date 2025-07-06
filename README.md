@@ -1,5 +1,6 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franco-androetto/)
 ![](https://komarev.com/ghpvc/?username=androetto&color=green)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-121212?style=flat-square&logo=vercel&logoColor=white)](https://androetto.github.io/portfolio/)
 
 <h1 align="center">FRANCO ANDROETTO</h1>
 <h3 align="center">🚀 Senior Full Stack Developer & DevOps Engineer 🛠️</h3>
@@ -18,6 +19,8 @@ Hi! I'm a full stack JavaScript developer from 🇦🇷, currently working as a 
 Right now, I'm launching an open source project because I’m passionate about open collaboration and always eager to learn from the community.
 
 Outside of coding, I love good food 🍝, sports 🏌️‍♂️🏃‍♂️🏊‍♂️🚴‍♂️, and I'm learning to play the guitar 🎸. I’m constantly looking for ways to optimize and automate everything around me. 🚀
+
+➡️ [See full portfolio](https://androetto.github.io/portfolio/)
 
 
 ### :hammer_and_wrench: Skills
