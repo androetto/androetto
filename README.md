@@ -31,8 +31,8 @@ Outside of coding, I love good food 🍝, sports 🏌️‍♂️🏃‍♂️�
 5. **Order Journey** - Plataforma de traducción con pagos
 6. **Chep Skycan** - Inventario automatizado con drones e IA
 7. **Watchman** - Seguridad comunitaria con monitoreo
-8. **Librología** - Red social de libros (5K+ descargas)
-9. **Schedule Interpreter** - Migración legacy de Perl a JavaScript
+8. **Schedule Interpreter** - Migración legacy de Perl a JavaScript
+9. **Librología** - Red social de libros (5K+ descargas)
 
 ### :hammer_and_wrench: Skills
 
