@@ -20,8 +20,19 @@ Right now, I'm launching an open source project because I’m passionate about o
 
 Outside of coding, I love good food 🍝, sports 🏌️‍♂️🏃‍♂️🏊‍♂️🚴‍♂️, and I'm learning to play the guitar 🎸. I’m constantly looking for ways to optimize and automate everything around me. 🚀
 
+
+### 🎨 Portfolio Highlights
 ➡️ [See full portfolio](https://androetto.github.io/portfolio/)
 
+1. **POS Cloud - ERP** - Sistema empresarial completo
+2. **Sport Style** - App móvil de entrenamiento
+3. **CMS - Diario Virtual** - Sistema de gestión de contenido
+4. **Blotter v2.0** - Plataforma de trading financiero
+5. **Order Journey** - Plataforma de traducción con pagos
+6. **Chep Skycan** - Inventario automatizado con drones e IA
+7. **Watchman** - Seguridad comunitaria con monitoreo
+8. **Librología** - Red social de libros (5K+ descargas)
+9. **Schedule Interpreter** - Migración legacy de Perl a JavaScript
 
 ### :hammer_and_wrench: Skills
 
